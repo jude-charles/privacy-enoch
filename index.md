@@ -1,3 +1,5 @@
 # Enoch Calendar
 
-- Privacy Policy
+## Legal
+
+- [Privacy Policy](privacy_policy.html)
