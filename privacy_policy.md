@@ -1,43 +1,80 @@
-# Privacy Policy
+# Privacy Policy  
+**Effective Date:** February 28, 2026  
 
-Effective date: 2026-02-28
+Thank you for using **Enoch Calendar** ("the App").  
+This Privacy Policy explains how the App handles user information.
 
-This Privacy Policy describes how **Enoch Calendar** ("the app") handles information.
+---
 
-## Summary
+## 1. Overview
 
-- The app does **not** collect personal information.
-- The app does **not** use analytics.
-- The app does **not** share data with third parties.
+Enoch Calendar is designed with privacy in mind.
 
-## Information We Collect
+- The App does **not collect** personal information.  
+- The App does **not use analytics services**.  
+- The App does **not display advertisements**.  
+- The App does **not share data with third parties**.  
 
-**None.**
+---
 
-The app does not request accounts, and it does not collect, store, or transmit personal data (such as name, email address, precise location, contacts, or photos).
+## 2. Information We Collect
 
-## Analytics and Advertising
+**We do not collect any personal information.**
 
-The app does not use analytics SDKs and does not show ads.
+The App does not require user accounts and does not request, collect, store, or transmit personal data such as:
 
-## Data Sharing
+- Name  
+- Email address  
+- Phone number  
+- Location data  
+- Contacts  
+- Photos  
+- Device identifiers  
 
-The app does not share data with any third parties.
+The App functions entirely without collecting user data.
 
-## Data Storage
+---
 
-The app is designed to function without collecting user data.
+## 3. Analytics and Advertising
 
-## Children’s Privacy
+Enoch Calendar:
 
-The app does not knowingly collect personal information from anyone, including children.
+- Does not use analytics SDKs  
+- Does not use tracking technologies  
+- Does not display third-party advertisements  
 
-## Changes to This Policy
+---
 
-If this policy changes, the updated version will be made available with a new effective date.
+## 4. Data Sharing
 
-## Contact
+Because the App does not collect data, it does not share data with any third parties.
 
-If you have questions about this Privacy Policy, contact:
+---
 
-- Email: jude@hey-jude-productions.com
+## 5. Data Storage and Security
+
+The App does not collect or store personal data on servers or external systems.
+
+---
+
+## 6. Children’s Privacy
+
+Enoch Calendar does not knowingly collect personal information from anyone, including children under the age of 13.
+
+Since no personal data is collected, the App is designed to be safe for general audiences.
+
+---
+
+## 7. Changes to This Privacy Policy
+
+If this Privacy Policy is updated, the revised version will be published with a new effective date.
+
+Continued use of the App after changes indicates acceptance of the updated policy.
+
+---
+
+## 8. Contact Information
+
+If you have any questions about this Privacy Policy, please contact:
+
+**Email:** jude@hey-jude-productions.com
