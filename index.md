@@ -1,80 +1,72 @@
-# Privacy Policy  
-**Effective Date:** February 28, 2026  
+# Privacy Policy
 
-Thank you for using **Enoch Calendar** ("the App").  
-This Privacy Policy explains how the App handles user information.
+Effective date: 2026-05-16
 
----
+This Privacy Policy describes how **Enoch Calendar** ("the app") handles information.
 
-## 1. Overview
+## Summary
 
-Enoch Calendar is designed with privacy in mind.
+- The app does not require an account or profile.
+- The app stores some settings locally on your device.
+- The app uses Google AdMob to show ads to users who have not purchased the ad-free option.
+- The app uses Google Play Billing for the one-time `remove_ads` purchase.
+- The app does not use Firebase Analytics or its own backend server.
 
-- The App does **not collect** personal information.  
-- The App does **not use analytics services**.  
-- The App does **not display advertisements**.  
-- The App does **not share data with third parties**.  
+## Information the App Stores Locally
 
----
+The app stores some information on your device to make features work properly. This may include:
 
-## 2. Information We Collect
+- your selected calendar mode and app preferences
+- notification settings such as whether notifications are enabled and the chosen notification time
+- whether the ad-free purchase has been unlocked on the device
+- widget-related settings used by the home screen widget
 
-**We do not collect any personal information.**
+This information is stored locally on your device using app storage. We do not operate our own server to collect this information.
 
-The App does not require user accounts and does not request, collect, store, or transmit personal data such as:
+## Notifications and Time Zone
 
-- Name  
-- Email address  
-- Phone number  
-- Location data  
-- Contacts  
-- Photos  
-- Device identifiers  
+If you enable event notifications, the app uses your device time zone and your chosen notification time to schedule local reminders on your device.
 
-The App functions entirely without collecting user data.
+## Advertising
 
----
+The app uses **Google AdMob** to show ads in the free version of the app. AdMob and its partners may collect device and usage data as described in Google's policies in order to serve, measure, and improve ads.
 
-## 3. Analytics and Advertising
+Users who purchase the ad-free option should no longer be shown ads in the app.
 
-Enoch Calendar:
+## Purchases
 
-- Does not use analytics SDKs  
-- Does not use tracking technologies  
-- Does not display third-party advertisements  
+The app offers a one-time in-app purchase called `remove_ads`. Purchases are processed by the Google Play billing system on Android. We do not receive or store your payment card details.
 
----
+Google may process transaction-related information according to its own privacy policy and billing terms.
 
-## 4. Data Sharing
+## Analytics
 
-Because the App does not collect data, it does not share data with any third parties.
+The app does not include Firebase Analytics. However, third-party services used by the app, such as AdMob or the app store billing platform, may collect limited technical or transaction-related information under their own policies.
 
----
+## Third-Party Services
 
-## 5. Data Storage and Security
+The app relies on third-party platform and service providers, which may process data under their own privacy policies, including:
 
-The App does not collect or store personal data on servers or external systems.
+- Google AdMob
+- Google Play Billing
+- Apple App Store billing, if the iOS version offers purchases
 
----
+We recommend reviewing the privacy policies of those services before using the app.
 
-## 6. Children’s Privacy
+## Data Sharing
 
-Enoch Calendar does not knowingly collect personal information from anyone, including children under the age of 13.
+We do not sell your personal information and we do not run our own analytics or advertising server. However, third-party services integrated into the app may receive data needed to provide ads, purchases, or platform functionality.
 
-Since no personal data is collected, the App is designed to be safe for general audiences.
+## Children’s Privacy
 
----
+The app is a calendar and study tool. We do not knowingly collect personal information directly from children, but third-party services such as advertising providers may process limited device data as described in their own policies.
 
-## 7. Changes to This Privacy Policy
+## Changes to This Policy
 
-If this Privacy Policy is updated, the revised version will be published with a new effective date.
+If this policy changes, the updated version will be made available with a new effective date.
 
-Continued use of the App after changes indicates acceptance of the updated policy.
+## Contact
 
----
+If you have questions about this Privacy Policy, contact:
 
-## 8. Contact Information
-
-If you have any questions about this Privacy Policy, please contact:
-
-**Email:** jude@hey-jude-productions.com
+- Email: jude@hey-jude-productions.com
